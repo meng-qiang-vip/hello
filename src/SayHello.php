@@ -10,12 +10,19 @@ namespace Hello;
 
 class SayHello
 {
-        public static function say(){
-            return "hello world";
-        }
+    public static function say()
+    {
+        return "hello world";
+    }
 
-        public static function getList(){
-            return "get List 列表";
-        }
+    public static function getList()
+    {
+        return "get List 列表";
+    }
+
+    public static function getTitle()
+    {
+        return "get 孟强";
+    }
 
 }
