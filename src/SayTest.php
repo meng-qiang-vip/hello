@@ -17,4 +17,9 @@ class SayTest
         return "mengqiang";
     }
 
+    public function getContent()
+    {
+        return "很好的内容";
+    }
+
 }
