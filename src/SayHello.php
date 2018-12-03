@@ -14,4 +14,8 @@ class SayHello
             return "hello world";
         }
 
+        public static function getList(){
+            return "get List 列表";
+        }
+
 }
